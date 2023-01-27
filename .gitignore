@@ -1,0 +1,7 @@
+# meu arquivo de testes
+teste.py
+
+*.csv
+*.json
+
+*/__pycache__
